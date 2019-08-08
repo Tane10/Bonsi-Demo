@@ -1,0 +1,355 @@
+
+
+.a1login {
+  width               : 100%;
+  min-width           : 375px;
+  height              : 100vh;
+  min-height          : 812px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.a1login .bgcolor {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 812px;
+  width               : 375px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a1login .a61hzuviekilsx425 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 138px;
+  height              : 161px;
+  width               : 200px;
+  position            : absolute;
+  margin              : 0;
+  left                : 89px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.9;
+}
+.a1login .logincard {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 318px;
+  height              : 494px;
+  width               : 348px;
+  position            : absolute;
+  margin              : 0;
+  left                : 14px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a1login .logincard .c1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 494px;
+  width               : 348px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a1login .logincard .loginwith {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 30px;
+  height              : auto;
+  width               : 87px;
+  position            : absolute;
+  margin              : 0;
+  left                : 131px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Nunito-Black", Helvetica, Arial, serif;
+  font-size           : 17.0px;
+  color               : rgba(64, 64, 64, 1.0);
+  text-align          : left;
+  line-height         : 26.0px;
+}
+.a1login .logincard .username {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 76px;
+  height              : auto;
+  width               : 87px;
+  position            : absolute;
+  margin              : 0;
+  left                : 130px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Nunito-Black", Helvetica, Arial, serif;
+  font-size           : 17.0px;
+  color               : rgba(64, 64, 64, 1.0);
+  text-align          : left;
+  line-height         : 26.0px;
+}
+.a1login .logincard .password {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 180px;
+  height              : auto;
+  width               : 87px;
+  position            : absolute;
+  margin              : 0;
+  left                : 129px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Nunito-Black", Helvetica, Arial, serif;
+  font-size           : 17.0px;
+  color               : rgba(64, 64, 64, 1.0);
+  text-align          : left;
+  line-height         : 26.0px;
+}
+.a1login .logincard .passwordretangle {
+  background-color    : rgba(242, 242, 242, 1.0);
+  top                 : 230px;
+  height              : 45px;
+  width               : 308px;
+  position            : absolute;
+  margin              : 0;
+  left                : 24px;
+  border-radius       : 22px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a1login .logincard .loginbutton {
+  background-color    : rgba(21, 200, 114, 0.6);
+  top                 : 339px;
+  height              : 45px;
+  width               : 214px;
+  position            : absolute;
+  margin              : 0;
+  left                : 69px;
+  border-radius       : 22px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a1login .logincard .login {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 343px;
+  height              : auto;
+  width               : 54px;
+  position            : absolute;
+  margin              : 0;
+  left                : 154px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.78;
+  font-family         : "Nunito-Black", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 15.0px;
+}
+.a1login .logincard .login .span1 {
+  text-align          : justify;
+  line-height         : 31.0px;
+}
+.a1login .logincard .login .span2 {
+  font-size           : 15.0px;
+  text-align          : justify;
+  line-height         : 23.0px;
+}
+.a1login .logincard .a14charpassowrd {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 242px;
+  height              : auto;
+  width               : 107px;
+  position            : absolute;
+  margin              : 0;
+  left                : 49px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Nunito-Regular", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(177, 177, 177, 1.0);
+  text-align          : left;
+  line-height         : 23.0px;
+}
+.a1login .logincard .usernamerectangle {
+  background-color    : rgba(242, 242, 242, 1.0);
+  top                 : 122px;
+  height              : 45px;
+  width               : 308px;
+  position            : absolute;
+  margin              : 0;
+  left                : 24px;
+  border-radius       : 22px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a1login .logincard .username1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 126px;
+  height              : auto;
+  width               : 70px;
+  position            : absolute;
+  margin              : 0;
+  left                : 49px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Nunito-Regular", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(177, 177, 177, 1.0);
+  text-align          : left;
+  line-height         : 23.0px;
+}
+.a1login .areyounew {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 728px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 146px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Muli", Helvetica, Arial, serif;
+  font-size           : 13.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 19.0px;
+}
+.a1login .title {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 32px;
+  height              : 91px;
+  width               : 151px;
+  position            : absolute;
+  margin              : 0;
+  left                : 113px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.a1login .title .bonsi {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.93;
+  font-family         : "Nunito-Regular", Helvetica, Arial, serif;
+  font-size           : 60.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 91.0px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
